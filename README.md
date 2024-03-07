@@ -1,4 +1,4 @@
-# Sapphire
+# Sapphire Proxy
 A work in progress Proxy service, mainly meant for the penalty box that Blocksi can put people in.
 What is the penalty box you ask? It sucks really.
 
